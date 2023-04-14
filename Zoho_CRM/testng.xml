@@ -4,6 +4,7 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="com.zohocrm.testscript.CampaignsModule"/>
+      <class name="com.zohocrm.testscript.LeadModule"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
