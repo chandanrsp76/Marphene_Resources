@@ -2,22 +2,22 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
     <line>
-      <![CDATA[CreateCampaign]]>
+      <![CDATA[Create New Lead]]>
     </line>
   </reporter-output>
-  <suite started-at="2023-04-13T18:21:28Z" name="Default suite" finished-at="2023-04-13T18:21:28Z" duration-ms="76">
+  <suite started-at="2023-04-14T17:55:07Z" name="Default suite" finished-at="2023-04-14T17:55:07Z" duration-ms="72">
     <groups>
     </groups>
-    <test started-at="2023-04-13T18:21:28Z" name="Default test" finished-at="2023-04-13T18:21:28Z" duration-ms="76">
-      <class name="com.zohocrm.testscript.CampaignsModule">
-        <test-method signature="createCampaign()[pri:0, instance:com.zohocrm.testscript.CampaignsModule@11392934]" started-at="2023-04-13T18:21:28Z" name="createCampaign" finished-at="2023-04-13T18:21:28Z" duration-ms="31" status="PASS">
+    <test started-at="2023-04-14T17:55:07Z" name="Default test" finished-at="2023-04-14T17:55:07Z" duration-ms="72">
+      <class name="com.zohocrm.testscript.LeadModule">
+        <test-method signature="createNewLead()[pri:0, instance:com.zohocrm.testscript.LeadModule@11392934]" started-at="2023-04-14T17:55:07Z" name="createNewLead" finished-at="2023-04-14T17:55:07Z" duration-ms="23" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[CreateCampaign]]>
+              <![CDATA[Create New Lead]]>
             </line>
           </reporter-output>
-        </test-method> <!-- createCampaign -->
-      </class> <!-- com.zohocrm.testscript.CampaignsModule -->
+        </test-method> <!-- createNewLead -->
+      </class> <!-- com.zohocrm.testscript.LeadModule -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
